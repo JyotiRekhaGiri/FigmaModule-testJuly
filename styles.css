@@ -1,0 +1,246 @@
+*{
+    margin: 1vw;
+    padding: 0;
+    font-family: Roboto, sans-serif;
+}
+
+.nav-bar{
+    margin: 0;
+    padding: 0;
+}
+.text-color{
+    color: #FF5151;
+}
+
+.my-nav{
+   /* border-bottom: 1px solid #eeee;*/
+    position: sticky;
+    
+    background-color: white;
+}
+
+.second{
+    margin-top: 2vw;
+    background-image: url("./images/Rectangle 1.png");
+    width: 100%;
+    display: flex;
+}
+
+.text-side{
+   width: 50%;
+   margin-top: 200px;
+   margin-left: 50px;
+}
+.sec-image{
+    width: 50%;
+}
+
+.poster-1 p{
+   /* background-image: url("./images/Poster 1.png");
+*/
+top: 500vw;
+right: 4vw;
+z-index: -1;
+}
+
+.third{
+    
+}
+.poster-2{
+    /*background-image: url("./images/Poster 2.png");*/
+ bottom: 200vw;
+ z-index: -1;
+}
+.poster-3{
+   /* background-image: url("./images/Poster 3.png");*/
+ bottom: 500vw;
+ z-index: -1;
+}
+ /* background: linear-gradient(to bottom, #FCCB90 , #FF9A9E);
+  width: 85vw;
+  border-radius: 2vw;
+  z-index: 999;
+}
+*/
+.sec-button{
+    box-shadow: 0px 20px 30px 0px #e68d8dee;
+    background-color: #f97777;
+    border-radius: 1vw;
+    border-color: transparent;
+    width: 210px;
+    height: 63px;
+    color: white;
+    margin-top: 60px;
+}
+.for-first{
+    display: flex;
+}
+
+.for-first-fir{
+   width: 50%;
+}
+
+.for-first-sec{
+   width: 50%;
+}
+.header2,
+.heading1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bgwhitediv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bgwhite,
+.bgwhitee{
+    border: transparent;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 1vw;
+    width: 130px;
+    background-color: #ffff;
+    box-shadow: 5px 5px 10px 0px rgb(235, 228, 228);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bgwhitee{
+    background-color: #f97777;
+    color: white;
+    box-shadow: 0px 20px 30px 0px #f9eaea;
+}
+
+.scroll-image1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*top-image: url("./images/download.png");
+*/
+}
+.btn-fir{
+    color: white;
+    background-color: #f97777;
+    border: transparent;
+    border-radius: 1vw;
+    width: 80px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 29px;
+}
+.accesories{
+  display: flex;
+  
+}
+
+.card-three{
+    margin: 5vw;
+}
+
+.fifth{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: row;
+    
+}
+.sixth{
+    display: flex;
+    background-image: url("./images/Rectangle 262.png");
+    position: sticky;
+    top: 0px;
+}
+
+p a {
+    text-decoration: none;
+    color: rgb(62, 56, 56);
+}
+
+.icon{
+    border-radius: 3vw;
+    padding: 0.4vw;
+    color: white;
+    background-color: orangered;
+}
+a{
+    text-decoration: none;
+    color: rgb(106, 103, 103);  
+}
+.produ1 img,
+.produ2 img,
+.produ3 img,
+.prod2 img{
+    background-image: url("./images/Rectangle\ 253.png") ;
+    border-radius: 1vw 1vw 0 0;
+    box-shadow: 0px 0px 5px 0px rgb(169, 165, 165);
+    width: 20vw;
+    height: 30vh;
+    display: flex;
+    margin-left: auto;
+}
+
+.prod1 img,
+.prod3 img,
+.prod4 img,
+.prod5 img,
+.prod6 img,
+.prod7 img,
+.prod8 img{
+    box-shadow: 0px 0px 10px 0px rgb(169, 165, 165);
+    background-color: rgb(207, 202, 202);
+    border-radius: 1vw 1vw 0 0;
+    width: 20vw;
+    height: 30vh;
+}
+.prod1,
+.prod3,
+.prod4,
+.prod5,
+.prod6,
+.prod7,
+.prod8,
+.produ1,
+.produ2,
+.produ3,
+.prod2 {
+  
+}
+
+a svg{
+  margin-bottom: 0.5vw;
+  margin-left: 6vw;
+}
+
+.but{
+    border: transparent;
+    background-color: orangered;
+    padding: 0.4vw;
+    color: white;
+    border-radius: 1vw;
+    margin-left: 2vw;
+}
+.acce{
+    flex: row;
+    display: flex;
+    
+}
+.prod2 .card-body a{
+    width: auto;
+}
+
+.sec{
+    display: flex;
+    flex: row;
+    width: auto;
+}
+
+.card-body{
+    width: 100%;
+}
+.h2{
+    display: flex;
+}
